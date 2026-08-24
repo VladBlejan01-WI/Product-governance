@@ -1,0 +1,8 @@
+flowchart LR
+  Source[Measurement Source] --> Raw[Raw Thermographic File]
+  Raw --> IRBIS[IRBIS Analysis]
+  IRBIS --> Derived[Derived Measurements and Settings]
+  IRBIS --> Report[Reports and Exports]
+  Raw --> Archive[Approved Storage and Retention]
+  Derived --> Archive
+  Report --> Archive

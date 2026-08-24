@@ -1,0 +1,14 @@
+site_name: IRBIS 3 Professional Product Dossier
+theme:
+  name: material
+nav:
+  - Home: README.md
+  - Product: docs/01-product/product-brief.md
+  - Governance: docs/02-governance/ownership-and-raci.md
+  - Architecture: docs/03-architecture/architecture-overview.md
+  - Service: docs/04-service/service-description.md
+  - Security: docs/05-security-compliance/security-classification.md
+  - Commercial: docs/06-commercial/licensing.md
+  - Delivery: docs/07-delivery/backlog-model.md
+  - Adoption: docs/08-adoption/onboarding.md
+  - Lifecycle: docs/09-lifecycle/periodic-review.md

@@ -1,0 +1,6 @@
+flowchart LR
+  Engineer[Engineering User] -->|Analyzes thermographic data| IRBIS[IRBIS 3 Professional]
+  Camera[Thermal Camera or File Source] -->|Measurement data| IRBIS
+  IRBIS -->|Reports and exports| Reports[Approved Report or Export Location]
+  IRBIS -->|Files and settings| Storage[Approved Storage]
+  IRBIS -. optional .-> Integration[Engineering Integration or SDK Consumer]

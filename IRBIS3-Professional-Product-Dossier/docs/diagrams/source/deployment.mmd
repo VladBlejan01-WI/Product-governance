@@ -1,0 +1,10 @@
+flowchart TB
+  subgraph Managed_Endpoint[Managed Windows Workstation]
+    App[IRBIS 3 Professional]
+    Config[Approved Configuration]
+  end
+  Source[Thermal Camera or Measurement Source] --> App
+  App --> Store[Approved File Storage]
+  App --> Output[Reports and Exports]
+  Entitlement[License or Entitlement Mechanism - TBD] -.-> App
+  Support[Vendor Support - controlled transfer] -.-> App

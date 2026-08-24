@@ -1,0 +1,47 @@
+schemaVersion: "1.0"
+product:
+  id: "IRBIS3-PRO"
+  name: "IRBIS 3 Professional"
+  vendor: "InfraTec"
+  shortDescription: "Professional thermography analysis and reporting software"
+  lifecycleStatus: "live-to-be-verified"
+  productType: "commercial-desktop-engineering-software"
+  serviceModel: "desktop"
+  criticality: "to-be-assessed"
+  dataClassification: "to-be-assessed"
+  documentationUrl: "TBD"
+  repositoryUrl: "TBD"
+  backlogUrl: "TBD"
+  supportUrl: "TBD"
+ownership:
+  productOwner: "Blejan, Vlad"
+  businessOwner: "TBD"
+  technicalOwner: "TBD"
+  serviceOwner: "TBD"
+  securityContact: "TBD"
+  dataOwner: "TBD"
+  supportTeam: "TBD"
+  costCenter: "TBD"
+commercial:
+  pricingModel: "vendor-quote-to-be-verified"
+  currency: "TBD"
+  contractOwner: "TBD"
+  contractStart: "TBD"
+  contractEnd: "TBD"
+  renewalNoticeDate: "TBD"
+  annualBaselineCost: null
+licensing:
+  commercialLicenseType: "commercial-to-be-verified"
+  metric: "TBD"
+  quantity: null
+  transferable: null
+  autoRenewal: null
+operations:
+  supportedOperatingSystems: ["Microsoft Windows - exact versions TBD"]
+  serviceHours: "TBD"
+  supportModel: "Internal L1/L2 and vendor L3 - proposed"
+  targetAvailability: "Not applicable or TBD for desktop installation"
+governance:
+  lastReviewed: "2026-08-24"
+  nextReview: "TBD"
+  reviewFrequency: "quarterly"

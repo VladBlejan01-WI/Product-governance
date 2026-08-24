@@ -1,0 +1,7 @@
+flowchart LR
+  User[Authorized User] --> UI[IRBIS User Interface]
+  UI --> Analysis[Thermographic Analysis Functions]
+  Analysis --> Files[(Measurement Files)]
+  Analysis --> Reporting[Reporting and Export]
+  Analysis -. optional .-> Camera[Camera or Acquisition Module]
+  Analysis -. optional .-> SDK[SDK or Engineering Integration]
