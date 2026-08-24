@@ -1,0 +1,65 @@
+name: Product action
+description: Record a requested product change or improvement.
+labels: [product-action]
+body:
+  - type: input
+    id: product-id
+    attributes:
+      label: Product ID
+      description: Product identifier used in the portfolio.
+      placeholder: IRBIS3-PRO
+    validations:
+      required: true
+  - type: input
+    id: required-outcome
+    attributes:
+      label: Required outcome
+      placeholder: Define the expected outcome.
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      placeholder: Describe the request.
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance-criteria
+    attributes:
+      label: Acceptance criteria
+      placeholder: Describe measurable completion criteria.
+    validations:
+      required: true
+  - type: input
+    id: owner
+    attributes:
+      label: Owner
+      placeholder: Team or individual responsible.
+    validations:
+      required: true
+  - type: input
+    id: due-date
+    attributes:
+      label: Due date
+      placeholder: YYYY-MM-DD
+  - type: textarea
+    id: dependencies
+    attributes:
+      label: Dependencies
+      placeholder: List any required dependencies.
+  - type: textarea
+    id: documentation-impact
+    attributes:
+      label: Documentation impact
+      placeholder: Describe the documentation changes needed.
+  - type: textarea
+    id: security-impact
+    attributes:
+      label: Security impact
+      placeholder: Describe security considerations.
+  - type: textarea
+    id: licensing-impact
+    attributes:
+      label: Licensing impact
+      placeholder: Describe licensing or entitlement implications.

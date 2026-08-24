@@ -1,0 +1,7 @@
+stateDiagram-v2
+    [*] --> Planned
+    Planned --> Active: approved
+    Active --> Monitor: operational review
+    Monitor --> Active: continue
+    Active --> Retirement: decommissioning
+    Retirement --> [*]

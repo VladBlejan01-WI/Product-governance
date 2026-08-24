@@ -1,0 +1,46 @@
+name: Architecture decision
+description: Record an architecture decision for the product.
+labels: [architecture-decision]
+body:
+  - type: input
+    id: product-id
+    attributes:
+      label: Product ID
+      placeholder: IRBIS3-PRO
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      placeholder: Describe the context and drivers.
+    validations:
+      required: true
+  - type: textarea
+    id: considered-options
+    attributes:
+      label: Considered options
+      placeholder: List the options considered.
+    validations:
+      required: true
+  - type: textarea
+    id: proposed-decision
+    attributes:
+      label: Proposed decision
+      placeholder: State the proposed decision.
+    validations:
+      required: true
+  - type: textarea
+    id: consequences
+    attributes:
+      label: Consequences
+      placeholder: Describe consequences of the decision.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence-links
+    attributes:
+      label: Evidence links
+      placeholder: Add approved links to evidence or design references.
+    validations:
+      required: true

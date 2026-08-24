@@ -1,0 +1,60 @@
+site_name: "{{PRODUCT_NAME}}"
+site_description: "Governance and documentation template for {{PRODUCT_NAME}}"
+
+nav:
+  - Home: README.md
+  - Product:
+      - Product brief: docs/01-product/product-brief.md
+      - Vision and strategy: docs/01-product/vision-and-strategy.md
+      - Users and stakeholders: docs/01-product/users-and-stakeholders.md
+      - Capabilities: docs/01-product/capabilities.md
+      - Roadmap: docs/01-product/roadmap.md
+      - Success metrics: docs/01-product/success-metrics.md
+  - Governance:
+      - Ownership and RACI: docs/02-governance/ownership-and-raci.md
+      - Lifecycle status: docs/02-governance/lifecycle-status.md
+      - Risks and issues: docs/02-governance/risks-and-issues.md
+      - Dependencies: docs/02-governance/dependencies.md
+      - Review calendar: docs/02-governance/review-calendar.md
+      - Decision log: docs/02-governance/decision-log.md
+  - Architecture:
+      - Architecture overview: docs/03-architecture/architecture-overview.md
+      - Context and scope: docs/03-architecture/context-and-scope.md
+      - Runtime scenarios: docs/03-architecture/runtime-scenarios.md
+      - Deployment: docs/03-architecture/deployment.md
+      - Integrations: docs/03-architecture/integrations.md
+      - Security architecture: docs/03-architecture/security-architecture.md
+      - ADR template: docs/03-architecture/adr/ADR-000-template.md
+  - Service:
+      - Service description: docs/04-service/service-description.md
+      - Support model: docs/04-service/support-model.md
+      - Backup and recovery: docs/04-service/backup-and-recovery.md
+      - Monitoring and alerting: docs/04-service/monitoring-and-alerting.md
+      - Runbooks: docs/04-service/runbooks/
+  - Security and compliance:
+      - Security classification: docs/05-security-compliance/security-classification.md
+      - Privacy: docs/05-security-compliance/privacy.md
+      - Threat model: docs/05-security-compliance/threat-model.md
+      - Audit evidence index: docs/05-security-compliance/audit-evidence-index.md
+  - Commercial:
+      - Cost model: docs/06-commercial/cost-model.md
+      - Pricing: docs/06-commercial/pricing.md
+      - Licensing: docs/06-commercial/licensing.md
+      - Renewals: docs/06-commercial/renewals.md
+      - Vendors: docs/06-commercial/vendors.md
+  - Delivery:
+      - Backlog model: docs/07-delivery/backlog-model.md
+      - Definition of ready: docs/07-delivery/definition-of-ready.md
+      - Definition of done: docs/07-delivery/definition-of-done.md
+      - Testing strategy: docs/07-delivery/testing-strategy.md
+      - Release notes: docs/07-delivery/release-notes.md
+  - Adoption:
+      - Onboarding: docs/08-adoption/onboarding.md
+      - Training: docs/08-adoption/training.md
+      - Communications: docs/08-adoption/communications.md
+      - FAQ: docs/08-adoption/faq.md
+  - Lifecycle:
+      - Operational readiness: docs/09-lifecycle/operational-readiness.md
+      - Periodic review: docs/09-lifecycle/periodic-review.md
+      - Decommissioning plan: docs/09-lifecycle/decommissioning-plan.md
+      - Lessons learned: docs/09-lifecycle/lessons-learned.md

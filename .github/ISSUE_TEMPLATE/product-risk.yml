@@ -1,0 +1,71 @@
+name: Product risk
+description: Capture a product risk, its cause, and response.
+labels: [product-risk]
+body:
+  - type: input
+    id: product-id
+    attributes:
+      label: Product ID
+      placeholder: IRBIS3-PRO
+    validations:
+      required: true
+  - type: textarea
+    id: risk-statement
+    attributes:
+      label: Risk statement
+      placeholder: State the risk.
+    validations:
+      required: true
+  - type: textarea
+    id: cause
+    attributes:
+      label: Cause
+      placeholder: Describe the cause.
+    validations:
+      required: true
+  - type: textarea
+    id: consequence
+    attributes:
+      label: Consequence
+      placeholder: Describe the impact on the service.
+    validations:
+      required: true
+  - type: dropdown
+    id: likelihood
+    attributes:
+      label: Likelihood
+      options:
+        - Low
+        - Medium
+        - High
+    validations:
+      required: true
+  - type: dropdown
+    id: impact
+    attributes:
+      label: Impact
+      options:
+        - Low
+        - Medium
+        - High
+    validations:
+      required: true
+  - type: textarea
+    id: response
+    attributes:
+      label: Response
+      placeholder: Describe the response or mitigation.
+    validations:
+      required: true
+  - type: input
+    id: owner
+    attributes:
+      label: Owner
+      placeholder: Team or individual responsible.
+    validations:
+      required: true
+  - type: input
+    id: target-date
+    attributes:
+      label: Target date
+      placeholder: YYYY-MM-DD

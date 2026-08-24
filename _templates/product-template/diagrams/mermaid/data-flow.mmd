@@ -1,0 +1,5 @@
+flowchart LR
+    Source[Source system] -->|Data feed| Proc[{{PRODUCT_NAME}} processing]
+    Proc -->|Validated output| Store[{{TARGET_SYSTEM_OR_REPOSITORY}}]
+    Store -->|Reporting| Users[Business users]
+    Proc -->|Alerts| Ops[Operations team]

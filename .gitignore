@@ -1,0 +1,22 @@
+# Local environment and tool artifacts
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+*.swp
+*.bak
+*.orig
+
+# Secrets and sensitive material
+*.pem
+*.key
+*.crt
+*.pfx
+*.p12
+.env
+.env.*
+
+# IDE and editor files
+.vscode/
+.idea/
+*~

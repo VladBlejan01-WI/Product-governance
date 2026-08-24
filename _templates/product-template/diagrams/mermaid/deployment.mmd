@@ -1,0 +1,6 @@
+flowchart TB
+    Clients[Users or clients] --> Web[{{PRODUCT_NAME}} service]
+    Web --> App[Application layer]
+    App --> Data[Data layer]
+    App --> Int[Integration layer]
+    Ops[Operations and support] --> Web

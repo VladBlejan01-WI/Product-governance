@@ -1,0 +1,46 @@
+schemaVersion: "1.0"
+
+product:
+  id: "IRBIS3-PRO"
+  name: "IRBIS 3 Professional"
+  vendor: "InfraTec"
+  productOwner: "Blejan, Vlad"
+  lifecycleStatus: "live-to-be-verified"
+  productType: "commercial-desktop-engineering-software"
+  serviceModel: "desktop"
+  criticality: "TBD"
+  dataClassification: "TBD"
+  documentationUrl: "TBD"
+  backlogUrl: "TBD"
+  supportUrl: "TBD"
+
+ownership:
+  businessOwner: "TBD"
+  technicalOwner: "TBD"
+  serviceOwner: "TBD"
+  securityContact: "TBD"
+  dataOwner: "TBD"
+  procurementOwner: "TBD"
+  supportTeam: "TBD"
+
+commercial:
+  pricingModel: "TBD"
+  currency: "TBD"
+  contractReference: "TBD"
+  contractStart: "TBD"
+  contractEnd: "TBD"
+  renewalNoticeDate: "TBD"
+  annualBaselineCost: null
+
+licensing:
+  commercialLicenseType: "TBD"
+  metric: "TBD"
+  quantity: null
+  installedQuantity: null
+  transferable: null
+  autoRenewal: null
+
+governance:
+  reviewFrequency: "quarterly"
+  lastReviewed: "2026-08-24"
+  nextReview: "TBD"

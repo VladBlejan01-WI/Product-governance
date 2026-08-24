@@ -1,0 +1,20 @@
+# Replace the placeholder GitHub team names below with the actual team handles used by the organization before enabling this repository.
+# Conceptually required: product-owner review for product documentation changes.
+
+* @product-owners
+
+# Product documentation and portfolio ownership
+/products/ @product-owner-reviewers @product-owners
+/portfolio/ @product-owner-reviewers @product-owners
+/docs/ @product-owner-reviewers @product-owners
+
+# Governance and automation review
+/.github/ @product-owner-reviewers
+/automation/ @product-owner-reviewers
+/_templates/ @product-owner-reviewers
+
+# Specialist placeholder owners
+# Replace with the actual GitHub teams or individuals for these functions.
+/.github/ISSUE_TEMPLATE/ @architecture-specialists @security-specialists @procurement-specialists
+/docs/ @security-specialists @architecture-specialists
+/products/ @security-specialists @procurement-specialists
