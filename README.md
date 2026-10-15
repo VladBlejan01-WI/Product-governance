@@ -15,6 +15,7 @@ Git stores the approved product record, documentation, metadata, diagrams, templ
 ## Onboarded products
 
 - IRBIS 3 Professional
+- Bode Analyzer Suite
 
 ## Adding a new product
 

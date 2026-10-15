@@ -2,9 +2,10 @@
 
 This directory holds the logical enterprise records for each product in the portfolio.
 
-## Current product
+## Current products
 
-- [irbis3-professional/](irbis3-professional/)
+- [IRBIS 3 Professional](IRBIS3-Professional-Product-Dossier/)
+- [Bode Analyzer Suite](bode-analyzer-suite/)
 
 ## Product conventions
 

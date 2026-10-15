@@ -15,3 +15,7 @@ This document records the logical dependencies relevant to governance and servic
 | IRBIS 3 Professional | Business ownership confirmation | TBD |
 | IRBIS 3 Professional | Technical ownership confirmation | TBD |
 | IRBIS 3 Professional | Licensing evidence review | TBD |
+| Bode Analyzer Suite | Business, technical, service, security, data, and key-user ownership confirmation | TBD |
+| Bode Analyzer Suite | Verified BAS, Windows, driver, Bode hardware/firmware, accessory, and calibration compatibility baseline | TBD |
+| Bode Analyzer Suite | Licensing, entitlement, maintenance, and vendor-support evidence review | TBD |
+| Bode Analyzer Suite | Approved result storage, retention, backup, and data-classification decision | TBD |
