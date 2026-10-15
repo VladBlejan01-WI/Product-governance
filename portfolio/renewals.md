@@ -8,5 +8,6 @@ This file tracks renewal-related governance information only.
 | --- | --- | --- | --- |
 | IRBIS 3 Professional | TBD | TBD | TBD |
 | Bode Analyzer Suite | TBD | TBD | TBD |
+| Power Choke Tester DPG10 | TBD | TBD | TBD |
 
 No renewal dates or costs are recorded here without authoritative evidence.

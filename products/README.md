@@ -6,6 +6,7 @@ This directory holds the logical enterprise records for each product in the port
 
 - [IRBIS 3 Professional](IRBIS3-Professional-Product-Dossier/)
 - [Bode Analyzer Suite](bode-analyzer-suite/)
+- [Power Choke Tester DPG10](power-choke-tester-dpg10/)
 
 ## Product conventions
 

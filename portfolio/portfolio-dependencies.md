@@ -19,3 +19,7 @@ This document records the logical dependencies relevant to governance and servic
 | Bode Analyzer Suite | Verified BAS, Windows, driver, Bode hardware/firmware, accessory, and calibration compatibility baseline | TBD |
 | Bode Analyzer Suite | Licensing, entitlement, maintenance, and vendor-support evidence review | TBD |
 | Bode Analyzer Suite | Approved result storage, retention, backup, and data-classification decision | TBD |
+| Power Choke Tester DPG10 | Confirm accountable business, technical, service, safety, and data owners | TBD |
+| Power Choke Tester DPG10 | Confirm installed DPG10/DPG20 assets, software/OS baseline, optional interface hardware, and calibration | TBD |
+| Power Choke Tester DPG10 | Validate actual API/database/production-line integrations and support boundary | TBD |
+| Power Choke Tester DPG10 | Confirm data classification, access, backup, safety review, and license/support entitlement | TBD |
