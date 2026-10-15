@@ -1,0 +1,49 @@
+schemaVersion: "1.0"
+product:
+  id: "BAS-OMICRON"
+  name: "Bode Analyzer Suite"
+  vendor: "OMICRON Lab"
+  shortDescription: "Windows engineering and laboratory measurement software for frequency-response, control-loop, impedance, and network characterization with Bode 100 or Bode 500 hardware"
+  lifecycleStatus: "onboarding-baseline"
+  productType: "commercial-desktop-engineering-software"
+  serviceModel: "desktop-endpoint-with-external-measurement-hardware"
+  criticality: "to-be-assessed"
+  dataClassification: "to-be-assessed"
+  documentationUrl: "https://www.omicron-lab.com/bode-analyzer-suite/"
+  repositoryUrl: "TBD"
+  backlogUrl: "TBD"
+  supportUrl: "https://www.omicron-lab.com/support/"
+ownership:
+  productOwner: "TBD"
+  businessOwner: "TBD"
+  technicalOwner: "TBD"
+  serviceOwner: "TBD"
+  securityContact: "TBD"
+  dataOwner: "TBD"
+  supportTeam: "TBD"
+  costCenter: "TBD"
+commercial:
+  pricingModel: "to-be-verified"
+  currency: "TBD"
+  contractOwner: "TBD"
+  contractStart: "TBD"
+  contractEnd: "TBD"
+  renewalNoticeDate: "TBD"
+  annualBaselineCost: null
+licensing:
+  commercialLicenseType: "to-be-verified"
+  metric: "TBD"
+  quantity: null
+  transferable: null
+  autoRenewal: null
+operations:
+  supportedOperatingSystems:
+    - "Windows 11 for BAS 3.52/Bode 500 combination in supplied vendor technical data"
+    - "Windows 10 / 11 in supplied Bode 500 quick-start guide; reconcile with current vendor release documentation before deployment"
+  serviceHours: "TBD"
+  supportModel: "Internal L1/L2 and vendor support path proposed; ownership TBD"
+  targetAvailability: "Not applicable or TBD for endpoint deployment"
+governance:
+  lastReviewed: "2026-10-15"
+  nextReview: "TBD"
+  reviewFrequency: "quarterly"

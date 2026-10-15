@@ -13,3 +13,4 @@ This file records the current portfolio risk posture and should be updated as pa
 | Product | Risk | Owner | Status |
 | --- | --- | --- | --- |
 | IRBIS 3 Professional | TBD | TBD | Open |
+| Bode Analyzer Suite | Version, hardware/driver compatibility, entitlement, storage, and endpoint-security baseline require validation | TBD | Open |
