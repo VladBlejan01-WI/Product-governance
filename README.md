@@ -17,6 +17,7 @@ Git stores the approved product record, documentation, metadata, diagrams, templ
 - IRBIS 3 Professional
 - Bode Analyzer Suite
 - Power Choke Tester DPG10
+- ZEISS INSPECT (including ZEISS INSPECT Pro)
 
 ## Adding a new product
 
