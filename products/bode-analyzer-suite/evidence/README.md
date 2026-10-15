@@ -7,6 +7,12 @@
 
 > Do not commit confidential evidence here.
 
+## Approved internal documentation reference
+
+| ID | Source | Purpose | Authoritative location |
+|---|---|---|---|
+| I1 | Weidmüller SharePoint — Bode Analyzer Suite | Controlled internal documentation location supplied by the product stakeholder | [Bode Analyzer Suite](https://weidmueller.sharepoint.com/:f:/r/sites/Weidmueller-IT-Internal/Shared%20Documents/01.%20Documentation%20Edge%20Products/AF%20Operations/Quality/Bode%20Analyzer%20Suite?d=w06e8773a1ae94a7fa255d913471988e9&csf=1&web=1&e=PhmpEF) |
+
 ## Approved public references
 
 | ID | Source | Purpose | URL |
