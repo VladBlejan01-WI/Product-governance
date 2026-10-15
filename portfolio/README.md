@@ -12,4 +12,4 @@ This directory contains the portfolio-level governance records, catalog, and pla
 
 ## Current portfolio scope
 
-The current onboarding scope includes IRBIS 3 Professional and Bode Analyzer Suite.
+The current onboarding scope includes IRBIS 3 Professional, Bode Analyzer Suite, and Power Choke Tester DPG10.

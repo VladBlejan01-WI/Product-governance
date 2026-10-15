@@ -1,0 +1,45 @@
+schemaVersion: "1.0"
+product:
+  id: "DPG10-EDK"
+  name: "Power Choke Tester DPG10"
+  vendor: "ed-k"
+  productOwner: "TBD"
+  shortDescription: "Windows software and dedicated measurement hardware for characterizing inductive power components"
+  lifecycleStatus: "onboarding-baseline"
+  productType: "commercial-engineering-test-software-and-hardware-system"
+  serviceModel: "windows-endpoint-with-dedicated-test-hardware"
+  documentedSoftwareVersion: "3.9.4 package folder; installed version TBD"
+  documentedHardwareFamily: "DPG10 B-Series and DPG20; exact installed asset/model TBD"
+  documentedOperatingSystems: ["Windows 10", "Windows 11"]
+  criticality: "to-be-assessed"
+  dataClassification: "to-be-assessed"
+  documentationUrl: "https://weidmueller.sharepoint.com/sites/Weidmueller-IT-Internal/Shared%20Documents/01.%20Documentation%20Edge%20Products/AF%20Operations/Quality/Power%20Choke%20Tester%20DPG10"
+  backlogUrl: "TBD"
+  supportUrl: "TBD"
+ownership:
+  businessOwner: "TBD"
+  technicalOwner: "TBD"
+  serviceOwner: "TBD"
+  securityContact: "TBD"
+  dataOwner: "TBD"
+  procurementOwner: "TBD"
+  supportTeam: "TBD"
+commercial:
+  pricingModel: "TBD"
+  currency: "TBD"
+  contractReference: "TBD"
+  contractStart: "TBD"
+  contractEnd: "TBD"
+  renewalNoticeDate: "TBD"
+  annualBaselineCost: null
+licensing:
+  commercialLicenseType: "TBD"
+  metric: "TBD"
+  quantity: null
+  installedQuantity: null
+  transferable: null
+  autoRenewal: null
+governance:
+  reviewFrequency: "quarterly"
+  lastReviewed: "2026-10-15"
+  nextReview: "TBD"
