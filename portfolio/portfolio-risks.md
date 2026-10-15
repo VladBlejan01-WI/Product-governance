@@ -15,3 +15,4 @@ This file records the current portfolio risk posture and should be updated as pa
 | IRBIS 3 Professional | TBD | TBD | Open |
 | Bode Analyzer Suite | Version, hardware/driver compatibility, entitlement, storage, and endpoint-security baseline require validation | TBD | Open |
 | Power Choke Tester DPG10 | Installed version, tester/interface inventory, safety, security, data handling, and entitlement require validation | TBD | Open |
+| ZEISS INSPECT / ZEISS INSPECT Pro | Multi-site version/driver compatibility, quality-process validation, PLM/data governance, change control, entitlement, and security review need confirmation | TBD | Open |

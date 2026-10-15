@@ -1,0 +1,53 @@
+schemaVersion: "1.0"
+product:
+  id: "ZEISS-INSPECT"
+  name: "ZEISS INSPECT"
+  productFamily: "ZEISS INSPECT"
+  editions:
+    - "ZEISS INSPECT (basic edition; no-cost availability reported, current terms to verify)"
+    - "ZEISS INSPECT Pro (licensed professional edition)"
+  vendor: "ZEISS (contracting entity TBD)"
+  productOwner: "Blejan, Vlad (onboarding documentation coordinator; formal ownership transfer TBD)"
+  shortDescription: "Desktop metrology software family for 3D inspection, dimensional analysis, reporting, and optical/CT measurement-data evaluation"
+  lifecycleStatus: "onboarding-baseline; deployments reported at multiple metrology sites, inventory unverified"
+  productType: "commercial-engineering-metrology-desktop-software"
+  serviceModel: "local-desktop-application-with-measurement-system-dependencies"
+  criticality: "quality/product-release impact reported; formal classification TBD"
+  dataClassification: "TBD"
+  documentationUrl: "https://www.zeiss.com/metrology/en/software/zeiss-inspect/zeiss-inspect-optical-3d/system-requirements.html"
+  backlogUrl: "TBD"
+  supportUrl: "TBD"
+ownership:
+  businessOwner: "TBD"
+  technicalOwner: "TBD"
+  serviceOwner: "TBD"
+  securityContact: "TBD"
+  dataOwner: "TBD"
+  qualityProcessOwner: "TBD"
+  procurementOwner: "TBD; intake reports an incumbent, identity and handover unverified"
+  supportTeam: "Local experts and ZEISS support reported; named team/contacts TBD"
+commercial:
+  pricingModel: "Basic edition reported no-cost; Pro edition commercial licensing reported; verify terms"
+  currency: "TBD"
+  contractReference: "TBD; controlled contract record required"
+  contractStart: "TBD"
+  contractEnd: "TBD; an agreement through 2030 is stakeholder-reported, not verified"
+  renewalNoticeDate: "TBD"
+  annualBaselineCost: null
+licensing:
+  commercialLicenseType: "Mixed editions; basic no-cost availability and Pro entitlement to verify"
+  metric: "TBD"
+  reportedApproximateAllocation: "Approximately 13 allocations reported across Quality (4), Industrial Solutions (5), TWG (2), WIRO (1), and WISC (1); not a verified owned/active inventory"
+  quantity: null
+  installedQuantity: null
+  transferable: null
+  autoRenewal: null
+operations:
+  documentedOperatingSystems: "TBD; confirm version-specific ZEISS requirements"
+  serviceHours: "TBD"
+  supportModel: "Local expertise plus ZEISS technical/application support reported; formal service process TBD"
+  targetAvailability: "TBD; no SLA reported"
+governance:
+  reviewFrequency: "quarterly"
+  lastReviewed: "2026-10-15"
+  nextReview: "TBD"
